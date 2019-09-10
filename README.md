@@ -1,3 +1,4 @@
+Simple reference to learn the project
 # SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications
 
 This page is for the [SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications](http://arxiv.org/abs/1907.11093)
